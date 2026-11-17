@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <rect width="120" height="120" rx="24" fill="#2f6b3a"/>
+  <path d="M60 22 C78 40 82 62 60 98 C38 62 42 40 60 22 Z" fill="#f5c542"/>
+  <text x="60" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">GG</text>
+</svg>
