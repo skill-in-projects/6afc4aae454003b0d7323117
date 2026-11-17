@@ -1,6 +1,7 @@
 import { HashRouter, NavLink, Route, Routes } from 'react-router-dom'
 import HomePage from './pages/HomePage.jsx'
 import ShopPage from './pages/ShopPage.jsx'
+import WalkingHamster from './components/WalkingHamster.jsx'
 
 // The app shell: a top bar with links, and the page for each address.
 export default function App() {
@@ -40,6 +41,8 @@ export default function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/shop" element={<ShopPage />} />
       </Routes>
+
+      <WalkingHamster />
     </HashRouter>
   )
 }
